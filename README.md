@@ -1,8 +1,8 @@
 # ruby snake Game
 
-##Screenshots
+## Screenshots
 
-##How to play?
+## How to play?
 
 1. Download the folder ruby_file
 2. On your terminal run "ruby $PATH/ruby_file/game.rb"
